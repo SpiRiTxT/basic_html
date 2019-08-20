@@ -1,0 +1,17 @@
+.gallery{
+    width: 48%;
+    display: inline-block"
+    
+
+}
+
+.gallery > img{
+    width: 700px;
+    height: 700px;
+}
+.gallery > div{
+    font-size: 3em;
+    font-weight: bolder;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
