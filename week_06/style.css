@@ -1,6 +1,6 @@
 .gallery{
     width: 48%;
-    display: inline-block"
+    display: inline-block;
     
 
 }
@@ -13,5 +13,5 @@
     font-size: 3em;
     font-weight: bolder;
     font-family: 'Permanent Marker', cursive;
-    text-align: center;
+    text-align: center; 
 }
